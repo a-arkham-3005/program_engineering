@@ -1,0 +1,7 @@
+# Commentr
+
+# ignore our test file, it's not for upload...
+test.txt
+
+# ignore logs
+*.log
