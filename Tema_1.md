@@ -2,7 +2,9 @@
 Отчёт по теме №1 выполнил:
 - Хайрутдинов Игорь Юрьевич
 - ИВТ-22-2
+
 | Задание | Лаб_раб |
+| ------- | ------- |
 | Задание 1 | + |
 | Задание 2 | + |
 | Задание 3 | + |
@@ -18,6 +20,7 @@
 | Задание 13 | + |
 | Задание 14 | + |
 | Задание 15 | + |
+
 ## Лабораторная работа №1
 ### Установка Git
 ![Скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_1/screens/num1.jpg)
@@ -47,7 +50,8 @@
 ![Скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_1/screens/num9.jpg)
 ## Лабораторная работа №10
 ### Отслеживание изменений в коммитах
-![Скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_1/screens/num10.jpg)
+![Скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_1/screens/num10-1.jpg)
+![Скрин 2](https://github.com/a-arkham-3005/program_engineering/blob/Тема_1/screens/num10-2.jpg)
 ## Лабораторная работа №11
 ### Возвращение файла к предыдущему (определённому) состоянию
 ![Скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_1/screens/num11.jpg)
