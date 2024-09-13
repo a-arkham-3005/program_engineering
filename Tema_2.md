@@ -28,7 +28,7 @@ print("3245")
 print(3423523.423546)
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/lab1.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/lab1.png)
 
 ## Выводы
 
@@ -49,7 +49,7 @@ print(31.31-523.64)
 print(6+867.1)
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/lab2.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/lab2.png)
 
 ## Выводы
 
@@ -75,7 +75,7 @@ st2="NOW!"
 print(st1+st2)
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/lab3.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/lab3.png)
 
 ## Выводы
 
@@ -99,7 +99,7 @@ tostr=4.4
 print(str(tostr))
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/lab4.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/lab4.png)
 
 ## Выводы
 
@@ -121,7 +121,7 @@ t3=input("3. ")
 print(t1,t2,t3)
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/lab5.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/lab5.png)
 
 ## Выводы
 
@@ -156,7 +156,7 @@ print(f"{fa} // {ia}={fa//ia}")
 print(f"{fa} % {ia}={fa%ia}")
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/lab6.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/lab6.png)
 
 ## Выводы
 
@@ -180,7 +180,7 @@ seven="7"
 print("1"+seven*15)
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/lab7.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/lab7.png)
 
 ## Выводы
 
@@ -197,7 +197,7 @@ print("1"+seven*15)
 print("Hello World".count("o"))
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/lab8.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/lab8.png)
 
 ## Выводы
 
@@ -210,7 +210,7 @@ print("Hello World".count("o"))
 print("Hello\nWorld")
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/lab9.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/lab9.png)
 
 ## Выводы
 
@@ -225,7 +225,7 @@ print(hw[1])
 print(hw[:5])
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/lab10.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/lab10.png)
 
 ## Выводы
 
@@ -244,7 +244,7 @@ print(hw[:5])
 print(bool(''))
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/sam1.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/sam1.png)
 
 ## Выводы
 
@@ -258,7 +258,7 @@ a="Э"; b=False; c=6.7
 print(a,b,c)
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/sam2.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/sam2.png)
 
 ## Выводы
 
@@ -276,7 +276,7 @@ num=int(input("Enter number: "))
 print(f"{num}**2={num**2}")
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/sam3.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/sam3.png)
 
 ## Выводы
 
@@ -290,7 +290,7 @@ sherlock="DBCN"
 print(sherlock*4)
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/sam4.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/sam4.png)
 
 ## Выводы
 
@@ -304,7 +304,7 @@ day=11;month='сентября';year=2024
 print(f"Сегодня {day} {month} {year} г. ",end="Всего хорошего!")
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/sam5.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/sam5.png)
 
 ## Выводы
 
@@ -322,7 +322,7 @@ hw="Hello World"
 print(hw[:5]+" my "+hw[6:])
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/sam6.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/sam6.png)
 
 ## Выводы
 
@@ -343,7 +343,7 @@ print(hw[:5]+" my "+hw[6:])
 print(len("Hello World"))
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/sam7.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/sam7.png)
 
 ## Выводы
 
@@ -356,7 +356,7 @@ print(len("Hello World"))
 print("HELLO WORLD".lower())
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/sam8.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/sam8.png)
 
 ## Выводы
 
@@ -371,7 +371,7 @@ b=float(input())
 print(a+b,a-b,a*b,a/b,sep="\n")
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/sam9.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/sam9.png)
 
 ## Выводы
 
@@ -385,7 +385,7 @@ one="qaz";two="wsx";three="edc"
 print(one,two,three,sep=",")
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/tree/Тема_2/screens/sam10.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_2/screens/sam10.png)
 
 ## Выводы
 
