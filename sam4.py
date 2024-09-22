@@ -1,0 +1,6 @@
+text=input()
+print("1. Длина предложения:",len(text))
+print("2. Нижний регистр:",text.lower())
+print("3. Количество гласных:",text.count('a')+text.count('e')+text.count('i')+text.count("o")+text.count("u"))
+print("4. Ugly->beauty:",text.replace("ugly","beauty"))
+print("5. Проверка на The....end: да" if (text[:3]=="The" and (text[-3:]=="end" or text[-4:]=="end.")) else "5. Проверка на The....end: нет")
