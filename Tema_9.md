@@ -35,7 +35,7 @@ print(person2.name)
 person2.surname='Шевнин'
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_7/screens/lab1.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_9/screens/lab1.png)
 
 ## Выводы
 
@@ -61,7 +61,7 @@ ic2.composition()
 ic3.composition()
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_7/screens/lab2.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_9/screens/lab2.png)
 
 ## Выводы
 
@@ -91,7 +91,7 @@ obj.del_value()
 print(obj.get_value()) # ошибка - атрибут _value удалён методом del_value
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_7/screens/lab3.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_9/screens/lab3.png)
 
 ## Выводы
 
@@ -115,7 +115,7 @@ cat=Cat()
 print(f"Cat is a {cat.className}, they say {cat.sounds}")
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_7/screens/lab4.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_9/screens/lab4.png)
 
 ## Выводы
 
@@ -141,7 +141,7 @@ hans=German()
 greet(hans)
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_7/screens/lab5.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_9/screens/lab5.png)
 
 ## Выводы
 
@@ -257,7 +257,7 @@ grd.work()
 grd.harvest()
 ```
 ### Результат
-![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_7/screens/sam.png)
+![скрин](https://github.com/a-arkham-3005/program_engineering/blob/Тема_9/screens/sam.png)
 
 ## Выводы
 
